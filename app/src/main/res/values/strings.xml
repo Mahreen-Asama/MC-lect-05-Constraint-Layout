@@ -3,4 +3,5 @@
     <string name="btnstr">Hello btn</string>
     <string name="textstr">TextView string</string>
     <string name="hello">hello world</string>
+    <string name="hi">hi world</string>
 </resources>
