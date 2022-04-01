@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lect05-ConstraintLayout</string>
+    <string name="btnstr">Hello btn</string>
 </resources>
