@@ -1,2 +1,2 @@
-# MC-lect-05-Constraint-Layout
+# MC-lect-05-ConstraintLayout
 constraint layout and linear layout android studio
